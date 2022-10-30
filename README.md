@@ -13,12 +13,12 @@ All the raw audio data can be webscraped from the sound database or accessed her
 
 **train_data_init.ipynb** sorts all the spectrograms into training and validation data which can be accessed here: https://drive.google.com/open?id=19gD99LZzIrhPkJhnbRGt-nCQ7au8qdnI
 
-**Training data**: 109 spectrograms (saved as .png images) for dolphins, whales, and seals each
+**Training data**: 109 spectrograms (saved as .png images) for dolphins, whales, and seals each <br>
 **Validation data**: 26 spectrograms (saved as .png images) for dolphins, whales, and seals each
 
 **train_model.ipynb** The pretrained Resnet-18 CNN was feature extracted.
 
-**Training accuracy**: 83%
+**Training accuracy**: 83% <br>
 **Validation accuracy**: 87%
 
 Audio models can be accessed from the .pt files in here: https://drive.google.com/open?id=1B6mWm1Hcx0v74AvnzBa4y0iC3scNlUsE
